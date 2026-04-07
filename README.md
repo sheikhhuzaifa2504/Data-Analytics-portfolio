@@ -1,5 +1,5 @@
 # Data-Analytics-portfolio
-EExcel & Power BI Dashboards showcasing data analysis skills
+Excel & Power BI Dashboards showcasing data analysis skills
 ## Excel Projects
 
 ### GDP Dashboard
