@@ -19,13 +19,13 @@ EExcel & Power BI Dashboards showcasing data analysis skills
 ## Power BI Projects
 
 ### Bank Customer Behavior & Insights
-![Bank Dashboard](PowerBI-Projects/Bank-Customer-Insights.png)
+![Bank Dashboard](PowerBI-Projects/Bank%20Customer%20Behaviour%20%26%20Insight%20Dashboard.png)
 
 ### Pakistan Inflation Analysis
-![Inflation Dashboard](PowerBI-Projects/Pakistan-Inflation.png)
+![Inflation Dashboard](PowerBI-Projects/Pakistan%20Inflation%20Analysis%20Dashboard.png)
 
 ### Stock Performance Overview
-![Stock Dashboard](PowerBI-Projects/Stock-Performance.png)
+![Stock Dashboard](PowerBI-Projects/Stock%20Performance%20OverView%20Dashboard.png)
 ---
 
 ## Tools Used
